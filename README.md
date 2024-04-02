@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayane Mohamed Merzoug</h1>
 <h3 align="center">Prodigy Experienced Full-Stack Developer since 2017</h3>
-
+<h5 align="center">Old github account from 2015 banned 😢</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smothy69&label=Profile%20views&color=0e75b6&style=flat" alt="smothy69" /> </p>
 
 - 🔭 I’m currently working on [Foxibytes](https://foxibytes.com/)
